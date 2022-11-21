@@ -13,6 +13,11 @@ public class Prac1Test {
 	public void tc2()
 	{
 		System.out.println("---Scrip2----");
+		
+		
+		
+		
+		
 	}
 
 }
